@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LSE Morning Briefing</title>
+    <link>https://&lt;luikjohannes&gt;.github.io/lse-briefing-podcast</link>
+    <description>A daily audio briefing on London Stock Exchange activity, covering market moves, notable trades, and company news.</description>
+    <language>en-gb</language>
+    <itunes:author>LSE Morning Briefing</itunes:author>
+    <itunes:summary>A daily audio briefing on London Stock Exchange activity, covering market moves, notable trades, and company news.</itunes:summary>
+  </channel>
+</rss>
