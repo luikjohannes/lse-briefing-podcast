@@ -8,6 +8,13 @@
     <itunes:author>LSE Morning Briefing</itunes:author>
     <itunes:summary>A daily audio briefing on London Stock Exchange activity, covering market moves, notable trades, and company news.</itunes:summary>
     <item>
+      <title>LSE Morning Briefing — 24 June 2026</title>
+      <pubDate>Wed, 24 Jun 2026 07:24:10 GMT</pubDate>
+      <guid isPermaLink="false">https://luikjohannes.github.io/lse-briefing-podcast/audio/briefing_20260624.mp3</guid>
+      <enclosure url="https://luikjohannes.github.io/lse-briefing-podcast/audio/briefing_20260624.mp3" length="3812160" type="audio/mpeg" />
+      <itunes:summary>LSE Morning Briefing — 24 June 2026</itunes:summary>
+    </item>
+    <item>
       <title>LSE Morning Briefing — 23 June 2026</title>
       <pubDate>Tue, 23 Jun 2026 07:23:50 GMT</pubDate>
       <guid isPermaLink="false">https://luikjohannes.github.io/lse-briefing-podcast/audio/briefing_20260623.mp3</guid>
